@@ -7,3 +7,4 @@ if (empty($var)) {
 if (isset($var)) {
     echo 2;
 }//1
+echo '11';
